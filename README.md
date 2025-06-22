@@ -98,6 +98,9 @@ Listed in `requirements.txt`, including:
 
 ---
 
+## 👋🏽 Time to play
+Please scan the cards with the 'qr' functionality on your phone (you cannot use the hitster app) and be aware the title will be visible. So make sure to turn the phone upside down after scanning, and before the API loads the song in Spotify. 
+
 ## 📬 License & Attribution
 
 This project was created by **Judith Koelewijn**. Feel free to reuse and adapt the code for personal or educational purposes.
