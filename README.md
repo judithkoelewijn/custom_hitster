@@ -106,7 +106,7 @@ If you share or publish any part of this project, please include appropriate cre
 
 ```
 Original project by Judith Koelewijn  
-https://github.com/[your-repo-link-if-applicable]
+https://github.com/judithkoelewijn/custom_hitster
 ```
 
 No formal license is applied, so all rights are reserved unless stated otherwise. If you wish to use this project commercially or beyond personal use, please get in touch.
