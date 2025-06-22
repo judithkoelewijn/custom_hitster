@@ -1,0 +1,4 @@
+pillow==9.2.0
+python-dotenv==1.1.0
+qrcode==7.3
+requests==2.31.0
